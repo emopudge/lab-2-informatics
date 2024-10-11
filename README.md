@@ -7,7 +7,8 @@
 ![image](https://github.com/user-attachments/assets/7244e6cf-ae0d-4c05-9ff9-9c8c65d277a7)
 ![image](https://github.com/user-attachments/assets/1086f857-7d48-4c64-8d24-b9b0b7e22402)
 
-```
+```markdown
+```bash
 #!/bin/bash
 
 # Запрашивает у пользователя ввод IP-адреса
@@ -54,6 +55,7 @@ else
   done
 fi
 ```
+
 
 ## Описание кода:
 
