@@ -5,6 +5,7 @@
 
 ## Код скрипта
 ![image](https://github.com/user-attachments/assets/4e946346-13af-4228-bf79-aa20057caaaa)
+![image](https://github.com/user-attachments/assets/1086f857-7d48-4c64-8d24-b9b0b7e22402)
 
 ```
 #!/bin/bash
