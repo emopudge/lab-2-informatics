@@ -4,7 +4,7 @@
 Написать скрипт, который принимает IP-адрес в десятичном формате и выводит его в двоичном формате.
 
 ## Код скрипта
-![image](https://github.com/user-attachments/assets/4e946346-13af-4228-bf79-aa20057caaaa)
+![image](https://github.com/user-attachments/assets/7244e6cf-ae0d-4c05-9ff9-9c8c65d277a7)
 ![image](https://github.com/user-attachments/assets/1086f857-7d48-4c64-8d24-b9b0b7e22402)
 
 ```
